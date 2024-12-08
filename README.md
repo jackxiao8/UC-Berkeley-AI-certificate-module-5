@@ -1,5 +1,5 @@
 this is the working directory for UC Berkeley ML and AI certificate class for module 5. This study analyze the drivers' acceptance of Bar coupon and Coffee coupon.
-The ipynb file is in the repository, and also a html version for people to view the analysis if no access to Jypyter notebook.
+The ipynb file is in the repository, and also a PDF version for people to view the analysis if no access to Jypyter notebook.
 
 For Bar coupon acceptance, we observed the below.
  1. The overall Bar coupon acceptance is less than 50%, i.e. 41%.
